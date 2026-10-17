@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Kwiq": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
